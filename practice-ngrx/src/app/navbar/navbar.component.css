@@ -1,0 +1,13 @@
+.nav{
+    background: pink;
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 950px;
+}
+.cart > a {
+    color: rgb(230, 33, 33);
+    font-size: x-large;
+}
